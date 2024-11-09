@@ -4,5 +4,5 @@
 num=int(input("Enter a number : "))
 
 for i in range(11):
-    #Pinting result
+    #Printing result
     print(num," X ",i," = ",num*i)
