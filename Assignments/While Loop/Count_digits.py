@@ -1,3 +1,4 @@
+#Program to count the number of digits in a number
 #Initialize count variable with 0
 count=0
 
