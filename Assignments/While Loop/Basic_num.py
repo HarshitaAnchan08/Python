@@ -1,3 +1,4 @@
+#Program to print 1 to 10 numbers
 #Initialize a variable num 
 num=1
 
