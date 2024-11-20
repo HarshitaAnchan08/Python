@@ -18,7 +18,7 @@ class Cat(Animal):
     def speak(self):
         return f"{self.name} meows"
         
-#Creating instance of the class
+#Creating instance of the child class
 dog=Dog("Buddy")
 cat=Cat("Whiskers")
 
